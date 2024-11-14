@@ -15,9 +15,7 @@ body{
     .header{
       position: fixed;
     }
-    .head .Logo{
-      margin-left: -50px;
-    }
+   
     .head .menu{
       margin-top: 20px;
       margin-left: 120px;
@@ -268,7 +266,7 @@ body{
   }
    .head ul{
     margin-top: 20px;
-    margin-left: 630px;
+    margin-left: 130px;
    }
    .menu li{  
     display: inline-flex;
